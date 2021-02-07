@@ -8,7 +8,7 @@ RSpec.describe User, type: :model do
   end
 
   it "should raise validation error when creating user without username" do
-    user = build(:user, username: nil)
+    user = build(:user, :invalid)
 
     refute user.save
   end
