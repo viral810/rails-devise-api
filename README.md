@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Templates
 
-Things you may want to cover:
+Quickly generate a rails 6 app with the default configuration
+using [Rails Templates](http://guides.rubyonrails.org/rails_application_templates.html).
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Devise
+Ruby on Rails 6 + Devise install with a generated `User` model.
+![ruby-plus-json](https://user-images.githubusercontent.com/16132307/27632466-f3d41940-5c25-11e7-9b43-e6e71cb7fa7e.png)
